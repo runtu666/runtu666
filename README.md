@@ -3,7 +3,7 @@
 **runtu666/runtu666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=runtu666&show_icons=true&theme=dark&count_private=true)]()
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runtu666&theme=dark&layout=compact)
 
 Here are some ideas to get you started:
 
