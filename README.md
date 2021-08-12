@@ -11,7 +11,8 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go         23 mins         █████████████████████░░░░   84.49 % 
+Markdown   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 ```
 <!--END_SECTION:waka-->
 
