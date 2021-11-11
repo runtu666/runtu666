@@ -4,7 +4,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=runtu666&theme=github&layout=compact&hide=javascript,html)
-![](https://github-readme-stats.vercel.app/api?username=runtu666&show_icons=true&theme=github&count_private=true&hide_border=1)
+![](https://github-readme-stats.vercel.app/api?username=runtu666&show_icons=true&theme=github&count_private=true&hide_border=1&line_height=20)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runtu666&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runtu666&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runtu666&theme=github)
