@@ -5,7 +5,11 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runtu666&theme=cobalt&layout=compact&hide=javascript,html)
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=runtu666&show_icons=true&theme=cobalt&count_private=true&line_height=20)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runtu666&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runtu666&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runtu666&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runtu666&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runtu666&theme=github)
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
