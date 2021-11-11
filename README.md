@@ -3,9 +3,9 @@
 <!-- **runtu666/runtu666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runtu666&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runtu666&theme=github)
-![](https://github-readme-stats.vercel.app/api?username=runtu666&show_icons=true&theme=github&count_private=true&hide_border=1)
+![](https://github-readme-stats.vercel.app/api?username=runtu666&show_icons=true&theme=github&count_private=true&line_height=26)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runtu666&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runtu666&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runtu666&theme=github&count_private=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runtu666&theme=github)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=runtu666&theme=github&layout=compact&hide=javascript,html)
 
