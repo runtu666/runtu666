@@ -7,7 +7,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runtu666&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runtu666&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runtu666&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?count_private=true&username=runtu666&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?&username=runtu666&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runtu666&theme=github)
 
 📊 **This week I spent my time on**
