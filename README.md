@@ -12,12 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go           50 mins         ████████████████░░░░░░░░░   64.57 %
-Api File     25 mins         ████████▒░░░░░░░░░░░░░░░░   33.23 %
-Makefile     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
