@@ -12,7 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go         1 hr 34 mins    ████████████▓░░░░░░░░░░░░   51.11 %
+SQL        1 hr 26 mins    ███████████▓░░░░░░░░░░░░░   46.90 %
+YAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Api File   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+go.mod     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+protobuf   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
