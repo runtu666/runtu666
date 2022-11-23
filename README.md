@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-SQL                      1 hr 14 mins    ███████████▒░░░░░░░░░░░░░   45.75 %
-Docker                   1 hr 12 mins    ███████████░░░░░░░░░░░░░░   44.60 %
-JSON                     11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-AlibabaCloudROS (JSON)   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-SmartyConfig             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-GitIgnore file           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Docker                   1 hr 12 mins    ████████████░░░░░░░░░░░░░   48.50 %
+SQL                      1 hr 1 min      ██████████▒░░░░░░░░░░░░░░   41.01 %
+JSON                     11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+AlibabaCloudROS (JSON)   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+SmartyConfig             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+GitIgnore file           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
