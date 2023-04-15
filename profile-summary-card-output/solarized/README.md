@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/runtu666/runtu666/main/profile-summary-card-output/solarized/4-productive-time.svg)
-```
-
-    
