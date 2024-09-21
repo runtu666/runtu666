@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML           28 mins         ████████████▓░░░░░░░░░░░░   50.98 %
-Docker         9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-SmartyConfig   9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
-Markdown       8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
-PHP            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
