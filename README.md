@@ -12,7 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP              1 hr 18 mins    █████████████████████░░░░   83.52 %
+JSON             7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+YAML             5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Markdown         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+SmartyConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
