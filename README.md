@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP            2 hrs 52 mins   ███████████████████████░░   91.81 %
-YAML           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-JSON           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Docker         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Log            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
