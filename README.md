@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              1 hr 44 mins    ███████████████████▒░░░░░   77.11 %
-Bash             21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-textmate         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Env File         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-YAML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
