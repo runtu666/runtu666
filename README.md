@@ -12,7 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML        10 mins         █████████████████░░░░░░░░   68.56 %
+PHP         4 mins          ████████░░░░░░░░░░░░░░░░░   31.39 %
+Java        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
