@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java        21 mins         ██████████████▒░░░░░░░░░░   56.75 %
-Python      6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-YAML        4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-.env file   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-Bash        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
