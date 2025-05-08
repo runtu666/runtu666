@@ -12,7 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java         1 hr 50 mins    ███████████████████▒░░░░░   76.70 %
+Vue.js       18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+YAML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+JavaScript   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
