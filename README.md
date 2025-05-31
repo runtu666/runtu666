@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           45 mins         ███████████████████████▓░   95.08 %
-TOML             2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
